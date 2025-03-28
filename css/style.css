@@ -179,9 +179,10 @@ a {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("../images/heroimage.png");
+    url("../images/heroimage.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -263,7 +264,7 @@ a {
   border-radius: 4px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   margin-bottom: 8px;
 }
 
